@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextStyle" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#333333</item>
+        <item name="android:fontFamily">@font/circle</item>
+    </style>
+
+    <style name="MyCustomTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="tabIndicatorColor">@color/secondary_color</item>
+        <item name="android:textSize">@dimen/defaultTextSize</item>
+        <item name="textAllCaps">false</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="tabBackground">@color/bg</item>
+        <item name="tabSelectedTextColor">@color/text_color</item>
+    </style>
+</resources>

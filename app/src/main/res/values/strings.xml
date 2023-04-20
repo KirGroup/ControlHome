@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Контроль дома</string>
+    <string name="cameras">Камеры</string>
+    <string name="doors">Двери</string>
+    <string name="settings">Настройки</string>
+    <string name="doorOpen">Открыть дверь</string>
+    <string name="myHouseDB">MyHouseDB</string>
+</resources>
